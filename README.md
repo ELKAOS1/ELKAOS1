@@ -47,5 +47,5 @@
 
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/ELKAOS1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ELKAOS1/ELKAOS1/blob/output/github-contribution-grid-snake.svg)
 
