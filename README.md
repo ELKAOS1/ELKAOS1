@@ -39,13 +39,8 @@
 </div>
 
 
-<div>
-<a href="https://github.com/ELKAOS1">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELKAOS1&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ELKAOS1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ELKAOS1&&theme=tokyonight" alt="Bruno Macri" /></p>
 
-
-![Snake animation](https://github.com/ELKAOS1/ELKAOS1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ELKAOS1/ELKAOS1/blob/output/github-contribution-grid-snake-dark.svg)
 
