@@ -5,10 +5,10 @@
 - 🌱 Atualmente estou aprendendo Desenvolvimento de Sistemas
 - 👯 Estou procurando colaborar em projetos Front/Back
 - 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
+- 💬 Pergunte-me sobre Motos e Carros
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: he/him
-- ⚡ Curiosidade: Gosto de motos
+- ⚡ Curiosidade: Gosto de motos e carros
 
 
 ## Ferramentas e Tecnologias
